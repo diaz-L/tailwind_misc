@@ -7,7 +7,8 @@ module.exports = {
     extend: {
       colors: {
         orange: colors.orange,
-        photo_3points_gold: "#c7b07a"
+        photo_3points_gold: "#c7b07a",
+        review_of_the_architect_primary: "#bba190"
       }
     },
   },
