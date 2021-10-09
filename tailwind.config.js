@@ -7,6 +7,7 @@ module.exports = {
     extend: {
       colors: {
         orange: colors.orange,
+        darkBrown: "#332D2A",
         photo_3points_gold: "#c7b07a",
         review_of_the_architect_primary: "#bba190",
         visualization_site_primary: "#b09673",
