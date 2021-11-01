@@ -12,7 +12,8 @@ module.exports = {
         photo_3points_gold: "#c7b07a",
         review_of_the_architect_primary: "#bba190",
         visualization_site_primary: "#b09673",
-        inspiration_for_success_primary: "#bfa1a8"
+        inspiration_for_success_primary: "#bfa1a8",
+        about_me_in_group_primary: "#e1a461"
       },
       spacing: {
           '1/2': '50%',
